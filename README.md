@@ -1,7 +1,7 @@
 ## 🙋‍♂️ About Me:
 - 👋 Hi,
--  I’m Ahmed Yehia, Mobile App Developer (Flutter developer) 😊
-- Highly skilled flutter developer with ~2 years of experience in development and delivering robust mobile applications.
+-  I’m Ahmed Yehia, Mobile App Developer ( Flutter developer ) 😊
+- Highly skilled flutter developer with experience in development and delivering robust mobile applications.
 Adept at collaborating with cross-functional teams to translate client requirements into innovative and efficient
 solutions. Seeking a challenging position as a flutter developer to utilize technical expertise and passion for creating
 exceptional user experiences
