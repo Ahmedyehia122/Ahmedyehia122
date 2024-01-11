@@ -9,7 +9,7 @@
 - 💻 My LinkedIn: https://www.linkedin.com/in/ahmedyehia122/
 - 📄 My CV ( link ): [https://acrobat.adobe.com/id/urn:aaid:sc:EU:61d17345-ba99-49a2-9a9e-0f45a3045d33](https://acrobat.adobe.com/id/urn:aaid:sc:EU:61d17345-ba99-49a2-9a9e-0f45a3045d33)
 - 📄 My CV ( pdf ) : [Ahmed Yehia - Flutter developer.pdf](https://github.com/Ahmedyehia122/Ahmedyehia122/files/13875678/Ahmed.Yehia.-.Flutter.developer.pdf)
-- 📞 My WhatsApp ** (+20) 1021463995 **
+- 📞 My WhatsApp : (+20) 1021463995 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
