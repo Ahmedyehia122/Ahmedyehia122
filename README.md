@@ -27,7 +27,7 @@
 </div>
 <br>
 
-<h3 align="left">🤝 Connect with me:</h3>
+<h3 align="left">🤝 Contact with me:</h3>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/ahmedyehia122/" target="_blank">
