@@ -32,12 +32,8 @@
  
  
 <p align="center">
-<a href="https://twitter.com/@ahmedyehia122a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ahmedyehia122a" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmedyehia122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedyehia122/" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100033167761298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100033167761298" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmed_yehia111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_yehia111" height="30" width="40" /></a>  
-<a href="https://www.youtube.com/channel/UCJsmBeFVDDSvHUOn8GzEBMg" target="blank"><img align="center"
- src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucxijeeizwvdsa3y7ow9qsda" height="30" width="40" /></a>
 </p>
  
 <br>
