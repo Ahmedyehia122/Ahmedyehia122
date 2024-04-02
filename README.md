@@ -16,8 +16,8 @@
 - 👨‍💻 All of my projects are available at [My Projects](https://github.com/Ahmedyehia122?tab=repositories)
 - 📫 My Email: ahmedyehia.122a@gmail.com  
 - 💻 My LinkedIn: https://www.linkedin.com/in/ahmedyehia122/
-- 📄 My CV ( link ): https://drive.google.com/file/d/1m0FKNigJisRu4Uj2oRtEhdz3OCFbyXzc/view?usp=sharing
-- 📄 My CV ( pdf ) : [Ahmed Yehia - Flutter developer CV.pdf](https://github.com/Ahmedyehia122/Ahmedyehia122/files/13928050/Ahmed.Yehia.-.Flutter.developer.CV.pdf)
+- 📄 My CV ( link ): https://drive.google.com/file/d/1C2OXzu4LP1OZH6EjzFxf4HvvjGkfol1v/view?usp=sharing
+- 📄 My CV ( pdf ) : [Ahmed-Yehia-flutter developer CV.pdf](https://github.com/Ahmedyehia122/Ahmedyehia122/files/14836825/Ahmed-Yehia-flutter.developer.CV.pdf)
 - 📞 My WhatsApp : (+20) 1021463995
   
   
