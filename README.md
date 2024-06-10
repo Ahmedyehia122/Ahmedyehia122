@@ -17,8 +17,12 @@
 - 📫 My Email: ahmedyehia.122a@gmail.com  
 - 💻 My LinkedIn: https://www.linkedin.com/in/ahmedyehia122/
 - 📄 My CV ( link ): https://drive.google.com/file/d/1C2OXzu4LP1OZH6EjzFxf4HvvjGkfol1v/view?usp=sharing
+- 📄 My CV ( link in Russian ): https://drive.google.com/file/d/1Ieux4uRpAXu5sQ2JWwdw6lWp1w7J-shh/view?usp=sharing
 - 📄 My CV ( pdf ) : [Ahmed-Yehia-flutter developer CV.pdf](https://github.com/Ahmedyehia122/Ahmedyehia122/files/14836825/Ahmed-Yehia-flutter.developer.CV.pdf)
+- 📄 My CV ( pdf in Russian) :  [Юссеф Ахмед-flutter developer-CV.pdf](https://github.com/user-attachments/files/15764844/-flutter.developer-CV.pdf)
 - 📞 My WhatsApp : (+20) 1021463995
+- 📞 My Telegram (username): @aym_hope
+- 📞 My Telegram (link) : https://t.me/aym_hope
   
   
 <br>
